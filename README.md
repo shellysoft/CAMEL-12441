@@ -5,6 +5,13 @@ This example contains a simple camel split route for xml.
 
 There is a test for the route which exemplifies the blocking wait.
 
+Environment :
+
+Java 1.8.0_162, Camel 2.21.0, maven 3.3.9
+
+IDE: Intellij IDEA
+
+
 Notes:
 
 com.ctc.wstx.stax.WstxInputFactory is used as  javax.xml.stream.XMLInputFactory
