@@ -1,0 +1,2 @@
+# CAMEL-12441
+An example for CAMEL-12441
