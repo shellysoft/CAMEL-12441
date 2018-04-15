@@ -8,6 +8,7 @@ There is a test for the route which exemplifies the blocking wait.
 Notes:
 
 com.ctc.wstx.stax.WstxInputFactory is used as  javax.xml.stream.XMLInputFactory
+
 com.ctc.wstx.stax.WstxOutputFactory is used as javax.xml.stream.XMLOuputFactory
 
 Dependencies:
